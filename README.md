@@ -115,7 +115,9 @@
 
 - [Donating MCP and Establishing the Agentic AI Foundation](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation) — MCP donated to Linux Foundation's AAIF, co-founded with Block and OpenAI. **10,000+ active MCP servers**, adopted by ChatGPT, Cursor, Gemini, VS Code. 97M+ monthly SDK downloads. *(Dec 9, 2025)*
 
-- [MCP Specification (2025-11-25)](https://modelcontextprotocol.io/specification/2025-11-25) — Latest MCP spec: JSON-RPC 2.0, tools/resources/prompts, security guidelines, async operations, statelessness, server identity.
+- [MCP Specification (2026-07-28)](https://modelcontextprotocol.io/specification/2026-07-28) — Current MCP specification: stateless requests, server discovery, Multi Round-Trip Requests, and tools/resources/prompts.
+
+- [MCP Specification (2025-11-25)](https://modelcontextprotocol.io/specification/2025-11-25) — Previous revision: experimental tasks and other enhancements. Streamable HTTP and tool annotations were introduced earlier, in 2025-03-26.
 
 - [One Year of MCP — November 2025 Spec Release](http://blog.modelcontextprotocol.io/posts/2025-11-25-first-mcp-anniversary/) — Anniversary blog detailing 2025-11-25 spec features: tasks, async operations, governance updates.
 
